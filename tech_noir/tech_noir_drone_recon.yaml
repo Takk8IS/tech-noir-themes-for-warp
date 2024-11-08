@@ -1,0 +1,30 @@
+# authors:
+#   - "David C Cavalcante <davcavalcante@proton.me>"
+#   - "Takk™ Innovate Studio <say@takk.ag>"
+# repository: "https://github.com/Takk8IS/tech-noir-themes-for-warp"
+# version: "1.0"
+
+background: "#0A1010"
+accent: "#00FF41"
+foreground: "#4CFF41"
+details: darker
+terminal_colors:
+    normal:
+        black: "#101414"
+        red: "#FF3232"
+        green: "#00FF41"
+        yellow: "#A0A06B"
+        blue: "#3F5F5F"
+        magenta: "#8B7355"
+        cyan: "#00CC41"
+        white: "#AAAB9C"
+    bright:
+        black: "#1A1E1E"
+        red: "#FF4C4C"
+        green: "#33FF71"
+        yellow: "#B8B88C"
+        blue: "#507F7F"
+        magenta: "#A68E68"
+        cyan: "#00FF76"
+        white: "#D5D6C8"
+name: Tech Noir Drone Recon

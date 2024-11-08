@@ -1,0 +1,30 @@
+# authors:
+#   - "David C Cavalcante <davcavalcante@proton.me>"
+#   - "Takk™ Innovate Studio <say@takk.ag>"
+# repository: "https://github.com/Takk8IS/tech-noir-themes-for-warp"
+# version: "1.0"
+
+background: "#0D1B1B"
+accent: "#00D6B2"
+foreground: "#66FFE3"
+details: darker
+terminal_colors:
+    normal:
+        black: "#162224"
+        red: "#FF5252"
+        green: "#00E5B7"
+        yellow: "#FFB300"
+        blue: "#29B6F6"
+        magenta: "#FF4081"
+        cyan: "#26C6DA"
+        white: "#B2DFDB"
+    bright:
+        black: "#263238"
+        red: "#FF8A80"
+        green: "#69F0AE"
+        yellow: "#FFD740"
+        blue: "#40C4FF"
+        magenta: "#FF80AB"
+        cyan: "#84FFFF"
+        white: "#E0F7FA"
+name: Tech Noir Blackhawk

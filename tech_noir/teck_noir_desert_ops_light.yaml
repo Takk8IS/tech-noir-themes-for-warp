@@ -1,0 +1,30 @@
+# authors:
+#   - "David C Cavalcante <davcavalcante@proton.me>"
+#   - "Takk™ Innovate Studio <say@takk.ag>"
+# repository: "https://github.com/Takk8IS/tech-noir-themes-for-warp"
+# version: "1.0"
+
+background: "#F5EDE3"
+accent: "#B67F35"
+foreground: "#433B32"
+details: lighter
+terminal_colors:
+    normal:
+        black: "#433B32"
+        red: "#CC4B3C"
+        green: "#7A8B68"
+        yellow: "#B67F35"
+        blue: "#6B7B8E"
+        magenta: "#A67559"
+        cyan: "#689A8E"
+        white: "#E5D9CB"
+    bright:
+        black: "#5C534A"
+        red: "#E65D4C"
+        green: "#8FA37B"
+        yellow: "#D49440"
+        blue: "#8295AB"
+        magenta: "#C68B6B"
+        cyan: "#7BB4A6"
+        white: "#F5EDE3"
+name: Tech Noir Desert Ops Light

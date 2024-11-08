@@ -1,0 +1,30 @@
+# authors:
+#   - "David C Cavalcante <davcavalcante@proton.me>"
+#   - "Takk™ Innovate Studio <say@takk.ag>"
+# repository: "https://github.com/Takk8IS/tech-noir-themes-for-warp"
+# version: "1.0"
+
+background: "#0A0D0C"
+accent: "#FFD700"
+foreground: "#CCAA00"
+details: darker
+terminal_colors:
+    normal:
+        black: "#121512"
+        red: "#CC4E00"
+        green: "#336644"
+        yellow: "#FFD700"
+        blue: "#2A3A3A"
+        magenta: "#996515"
+        cyan: "#1F4040"
+        white: "#B8860B"
+    bright:
+        black: "#1A1E1A"
+        red: "#FF6000"
+        green: "#447755"
+        yellow: "#FFE55C"
+        blue: "#3A4D4D"
+        magenta: "#B8860B"
+        cyan: "#2D5959"
+        white: "#DAA520"
+name: Tech Noir Night Ops

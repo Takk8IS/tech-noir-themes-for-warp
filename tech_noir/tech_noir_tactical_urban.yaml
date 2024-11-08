@@ -1,0 +1,30 @@
+# authors:
+#   - "David C Cavalcante <davcavalcante@proton.me>"
+#   - "Takk™ Innovate Studio <say@takk.ag>"
+# repository: "https://github.com/Takk8IS/tech-noir-themes-for-warp"
+# version: "1.0"
+
+background: "#0B1216"
+accent: "#0055FF"
+foreground: "#E1ECF5"
+details: darker
+terminal_colors:
+    normal:
+        black: "#141A1F"
+        red: "#FF2632"
+        green: "#158F44"
+        yellow: "#FF9900"
+        blue: "#0055FF"
+        magenta: "#B83939"
+        cyan: "#0099CC"
+        white: "#EDF3F9"
+    bright:
+        black: "#1C242A"
+        red: "#FF3B44"
+        green: "#1CAB52"
+        yellow: "#FFB700"
+        blue: "#1166FF"
+        magenta: "#D14444"
+        cyan: "#00B8E6"
+        white: "#F7FAFC"
+name: Tech Noir Tactical Urban

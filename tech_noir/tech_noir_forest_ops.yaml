@@ -1,0 +1,30 @@
+# authors:
+#   - "David C Cavalcante <davcavalcante@proton.me>"
+#   - "Takk™ Innovate Studio <say@takk.ag>"
+# repository: "https://github.com/Takk8IS/tech-noir-themes-for-warp"
+# version: "1.0"
+
+background: "#0B1208"
+accent: "#45D83A"
+foreground: "#B8C5A6"
+details: darker
+terminal_colors:
+    normal:
+        black: "#151C12"
+        red: "#B54835"
+        green: "#45D83A"
+        yellow: "#C4A82C"
+        blue: "#2D681F"
+        magenta: "#996335"
+        cyan: "#317A47"
+        white: "#C5D4B5"
+    bright:
+        black: "#1E2718"
+        red: "#CC5940"
+        green: "#51FF43"
+        yellow: "#DBB932"
+        blue: "#387D26"
+        magenta: "#B47642"
+        cyan: "#3D9558"
+        white: "#DCE8CC"
+name: Tech Noir Forest Ops
